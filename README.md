@@ -55,7 +55,7 @@ This repository contains walkthroughs of several Hack The Box (HTB) machines. Ea
 ## Usage
 Clone the repository and read the walkthroughs to understand various penetration testing methodologies.
 ```bash
- git clone https://github.com/yourusername/htb-walkthroughs.git
+ git clone [https://github.com/Gopalrajguru-tech/red-team-projects.git]
  cd htb-walkthroughs
 ```
 
